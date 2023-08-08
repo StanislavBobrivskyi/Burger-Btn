@@ -4,12 +4,14 @@ This is a simple menu button animation using HTML and CSS. The button displays a
 
 ## Preview
 
-You can see the animation in action by opening the `index.html` file in a web browser or by [clicking here](https://your-website.com/menu-animation).
+You can see the animation in action by opening the `index.html` file in a web browser or by [clicking here](https://stanislavbobrivskyi.github.io/Burger-Btn/).
 
 ## Installation
 
 1. Clone the repository using the following command:
 
    ```sh
-   git clone https://github.com/your-username/menu-animation.git
+   git clone https://github.com/StanislavBobrivskyi/Burger-Btn
+
+
    ```
