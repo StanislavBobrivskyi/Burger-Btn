@@ -12,6 +12,7 @@ body {
   cursor: pointer;
   display: flex;
   padding: 0;
+  box-shadow: 0px 0px 10px rgba(158, 250, 73, 0.2);
 }
 .line {
   fill: none;
